@@ -1,0 +1,43 @@
+﻿#GO_classify1,GO_classify2,Genome
+#Total_gene,,2546
+cellular component,extracellular region,6
+cellular component,cell,586
+cellular component,nucleoid,2
+cellular component,membrane,793
+cellular component,virion,6
+cellular component,macromolecular complex,122
+cellular component,organelle,95
+cellular component,extracellular region part,1
+cellular component,organelle part,38
+cellular component,virion part,6
+cellular component,membrane part,720
+cellular component,cell part,576
+molecular function,"transcription factor activity, protein binding",22
+molecular function,nucleic acid binding transcription factor activity,99
+molecular function,catalytic activity,1460
+molecular function,signal transducer activity,36
+molecular function,structural molecule activity,58
+molecular function,transporter activity,176
+molecular function,binding,1120
+molecular function,electron carrier activity,21
+molecular function,antioxidant activity,15
+molecular function,metallochaperone activity,1
+molecular function,D-alanyl carrier activity,1
+molecular function,molecular transducer activity,21
+molecular function,molecular function regulator,2
+biological process,reproduction,5
+biological process,immune system process,2
+biological process,metabolic process,1149
+biological process,cellular process,919
+biological process,reproductive process,3
+biological process,biological adhesion,3
+biological process,signaling,53
+biological process,developmental process,17
+biological process,locomotion,26
+biological process,single-organism process,733
+biological process,response to stimulus,176
+biological process,localization,293
+biological process,multi-organism process,7
+biological process,biological regulation,305
+biological process,cellular component organization or biogenesis,103
+biological process,detoxification,15
